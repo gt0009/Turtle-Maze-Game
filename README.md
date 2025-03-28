@@ -1,5 +1,4 @@
 # Turtle-Maze-Game
-# Turtle Maze Game 🐢🌈
 
 A fun maze game written in Python using the Turtle graphics module.
 
