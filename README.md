@@ -1,2 +1,25 @@
 # Turtle-Maze-Game
-A colorful maze game built with Python’s turtle module. Navigate a spiral maze using arrow keys, avoid barriers, and reach the red goal zone. Includes collision detection, color-changing trail, and win message. Features randomized layout and modular code.
+# Turtle Maze Game 🐢🌈
+
+A fun maze game written in Python using the Turtle graphics module.
+
+## 🎮 Features
+- Arrow-key movement
+- Color-changing trail
+- Spiral maze with random doors and barriers
+- Wall collision detection
+- Win condition with message
+
+## ▶️ How to Play
+1. Run `maze_game.py` in Python (IDLE, VS Code, or Thonny)
+2. Use arrow keys:
+   - ⬆️ = move forward
+   - ⬅️ / ➡️ = turn
+3. Reach the red square to win!
+
+## 📸 Screenshots
+*(You can add screenshots later)*
+
+## 🛠 Built With
+- Python 3
+- Turtle graphics module
